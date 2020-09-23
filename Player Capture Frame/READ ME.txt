@@ -1,0 +1,7 @@
+I used the dll freeware CapStill.dll to capture frames. You found the DLL at this link:
+http://www.gdcl.co.uk/index.htm. Supported and Captured movie format:
+*.avi;*.asf;*.mpg;*.mpeg;*.wmv;*.divx;*.dat;*.mpx;*mkv;*.mov;*.vob
+Don't forget to register the DLL CapStill.dll and adding a reference to this library
+before running the project! Also adding the reference 'Microsoft Active Movie Control Library'...
+
+Salvo Cortesiano
